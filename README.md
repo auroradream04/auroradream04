@@ -1,6 +1,6 @@
 <h1>✨ Introduction</h1>
 
-I'm Schrodinger, a passionate web developer from the Philippines. I have a deep love for programming and enjoy crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series or indulging in some delicious food. 
+I'm Aurora, a passionate web developer from the Philippines. I have a deep love for programming and enjoy crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series or indulging in some delicious food. 
 
 Let's connect and code together! Feel free to explore my repositories and collaborate on exciting projects. 😄
 
