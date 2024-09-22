@@ -1,33 +1,67 @@
-<h1>✨ Introduction</h1>
+# ✨ Hello, I'm Aurora! 👋
 
-I'm Aurora, a passionate web developer from the Philippines. I have a deep love for programming and enjoy crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series or indulging in some delicious food. 
+I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series 🍿 or indulging in some delicious food 🍜.
 
-Let's connect and code together! Feel free to explore my repositories and collaborate on exciting projects. 😄
+## 🚀 About Me
 
-<h2>😄 Pronouns</h2>
+- 💻 Full-stack web developer
+- 🌱 Currently learning [a new technology or skill you're working on]
+- 🎯 Goal: [Your current professional or personal goal]
+- ⚡ Fun fact: [An interesting fact about yourself]
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+</p>
+
+### Additional Skills
+- Prisma
+- Shadcn UI
+- Material-UI (MUI)
+- Shopify
+- React Native
+- Three.js
+- Framer Motion
+- Restful API
+- GraphQL
+<!-- ## 🌟 Featured Projects
+
+- [Project 1 Name](link-to-repo) - Brief description
+- [Project 2 Name](link-to-repo) - Brief description
+- [Project 3 Name](link-to-repo) - Brief description -->
+
+## 📫 Let's Connect!
+
+- Discord: schrodinger04 (892136568184254536)
+- [LinkedIn](your-linkedin-profile-link)
+- [Twitter](your-twitter-profile-link)
+- [Personal Website/Blog](your-website-link)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=schrodinger04&show_icons=true&theme=radical)
+
+## 😄 Pronouns
 wee/woo🚑
 
-<h2>📫 Socials </h2>
-<b>Discord:</b> schrodinger04 (892136568184254536)
-
-
-
-
-<h2>💻 Favourite Languages & Stacks </h2>
-
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=2&width=600&hideTitle=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=html5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3BJavascript%2CJavascript%2CF7DF1E%3BReact%2CReact%2C61DAFB%3BNext.JS%2CNext.JS%2C000000%3B&line2=PHP%2CPHP%2C777BB4%3BRedis%2CRedis%2CDC382D%3BDocker%2CDocker%2C2496ED%3B)
+Let's collaborate on exciting projects! Feel free to explore my repositories and reach out. Happy coding! 😄
 
 <!--
 **schrodinger04/schrodinger04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
