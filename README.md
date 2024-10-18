@@ -48,6 +48,14 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 - Framer Motion
 - Restful API
 - GraphQL
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
+
+![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
+
+![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
 <!-- ## 🌟 Featured Projects
 
 - [Project 1 Name](link-to-repo) - Brief description
@@ -62,12 +70,6 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 - [Threads](https://www.threads.net/@schrodinger0404)
 - [Github](https://github.com/auroradream04)
 - [Personal Website/Blog](https://alvinchang.dev)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
-![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
-![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
 
 
 
