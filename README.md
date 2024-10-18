@@ -1,13 +1,20 @@
 # ✨ Hello, I'm Aurora! 👋
 
-I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series 🍿 or indulging in some delicious food 🍜.
+A full-stack developer who started coding in 2023. I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series 🍿 or indulging in some delicious food 🍜.
 
 ## 🚀 About Me
 
-- 💻 Full-stack web developer
-- 🌱 Currently learning [Next.js](https://nextjs.org/)
+- 💻 Full-stack Engineer
+- 👨‍💼 Founder of Studio Aurora
+- 🌱 Currently Framer Motion and ThreeJS
 <!-- - 🎯 Goal: 
 - ⚡ Fun fact: [An interesting fact about yourself] -->
+
+## 👨‍💻 Portfolio
+🔗 [Portfolio Link](https://alvinchang.dev)
+<a href="https://alvinchang.dev" alight="center">
+  <img src="https://media.licdn.com/dms/image/v2/D562DAQHvRcPq0sfb8g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728820341569?e=1729846800&v=beta&t=QlijXoRMfUQ6SE3HvYqd5Nncf7rWKdplR9pJmf-3p2Y" alt="Portfolio bento card" width="800" height="450">
+</a>
 
 ## 🛠️ Tech Stack
 
@@ -50,15 +57,18 @@ I'm a passionate web developer from the Philippines 🇵🇭 with a deep love fo
 
 - Discord: schrodinger04 (892136568184254536)
 - [LinkedIn](https://linkedin.com/in/auroradream04)
-<!-- - [Twitter](https://twitter.com/auroradream04) -->
-- [Personal Website/Blog](https://whataboutpets.com)
+- [Twitter](https://twitter.com/aurora_dream04)
+- [Threads](https://www.threads.net/@schrodinger0404)
+- [Github](https://github.com/auroradream04)
+- [Personal Website/Blog](https://alvinchang.dev)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=auroradream04&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
+![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
+[![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
 
-## 😄 Pronouns
-wee/woo🚑
+
 
 Let's collaborate on exciting projects! Feel free to explore my repositories and reach out. Happy coding! 😄
 
