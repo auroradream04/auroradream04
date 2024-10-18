@@ -12,6 +12,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ## 👨‍💻 Portfolio
 🔗 [Portfolio Link](https://alvinchang.dev)
+
 <a href="https://alvinchang.dev" alight="center">
   <img src="https://media.licdn.com/dms/image/v2/D562DAQHvRcPq0sfb8g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728820341569?e=1729846800&v=beta&t=QlijXoRMfUQ6SE3HvYqd5Nncf7rWKdplR9pJmf-3p2Y" alt="Portfolio bento card" width="800" height="450">
 </a>
@@ -66,7 +67,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 ![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
-[![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
+![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
 
 
 
