@@ -53,7 +53,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 
-![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=auroradream04&layout=compact&theme=codeSTACKr&hide=php)
 
 ![Aurora's WakaTime stats](https://github-stars-flame.vercel.app/api/wakatime?username=auroradream04&theme=codeSTACKr)
 <!-- ## 🌟 Featured Projects
