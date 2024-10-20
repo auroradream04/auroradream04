@@ -50,6 +50,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 - GraphQL
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=auroradream04&theme=dark)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 
