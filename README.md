@@ -6,7 +6,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 - 💻 Full-stack Engineer
 - 👨‍💼 Founder of Studio Aurora
-- 🌱 Currently Framer Motion and ThreeJS
+- 📧 Accepting Freelance projects @alvin.studioaurora.io
 <!-- - 🎯 Goal: 
 - ⚡ Fun fact: [An interesting fact about yourself] -->
 
