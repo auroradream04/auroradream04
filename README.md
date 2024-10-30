@@ -1,4 +1,5 @@
-# ✨ Hello, I'm Aurora! 👋
+# ✨ Hello, I'm Aurora! 👋   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
 
 A full-stack developer who started coding in 2023. I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series 🍿 or indulging in some delicious food 🍜.
 
@@ -12,10 +13,10 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ## 👨‍💻 Portfolio
 🔗 [Portfolio Link](https://alvinchang.dev)
-
+<!--
 <a href="https://alvinchang.dev" alight="center">
   <img src="https://media.licdn.com/dms/image/v2/D562DAQHvRcPq0sfb8g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728820341569?e=1729846800&v=beta&t=QlijXoRMfUQ6SE3HvYqd5Nncf7rWKdplR9pJmf-3p2Y" alt="Portfolio bento card" width="800" height="450">
-</a>
+</a>  -->
 
 ## 🛠️ Tech Stack
 
