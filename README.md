@@ -66,12 +66,13 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ## 📫 Let's Connect!
 
-- Discord: schrodinger04 (892136568184254536)
+- [Discord](https://discord.gg/pwYGjDebkF)
 - [LinkedIn](https://linkedin.com/in/auroradream04)
 - [Twitter](https://twitter.com/aurora_dream04)
 - [Threads](https://www.threads.net/@schrodinger0404)
 - [Github](https://github.com/auroradream04)
 - [Personal Website/Blog](https://alvinchang.dev)
+- [Bluesky](https://bsky.app/profile/alvinchang.dev)
 
 
 
