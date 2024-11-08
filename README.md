@@ -1,7 +1,9 @@
 # ✨ Hello, I'm Aurora! 👋   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
 
-A full-stack developer who started coding in 2023. I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. When I'm not coding, you can often find me watching my favorite anime series 🍿 or indulging in some delicious food 🍜.
+A full-stack developer who started coding in 2023. I'm a passionate web developer from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. 
+
+ALSO, I LOVE BREAD!! 🥐🍞😚
 
 ## 🚀 About Me
 
