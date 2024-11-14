@@ -16,17 +16,17 @@ ALSO, I LOVE BREAD!! 🥐🍞😚
 ## 👨‍💻 Portfolio
 🔗 [Portfolio Link](https://alvinchang.dev)
 
-<a href="https://alvinchang.dev" alight="center">
+<a href="https://alvinchang.dev" align="center">
   <img src="https://alvinchang.dev/Portfolio.png" alt="Portfolio bento card" width="800" height="450">
 </a>  
 
 ## 🛠️ Tech Stack
 
-<h2>Main Tech Stack</h2>
-![image](https://github.com/user-attachments/assets/3399be82-b814-49c7-a2de-12e4decd34e9)
+<h3>Main Tech Stack</h3>
+<img src="https://github.com/user-attachments/assets/3399be82-b814-49c7-a2de-12e4decd34e9"/>
 
-<h2>All Technologies I use</h2>
-![image](https://github.com/user-attachments/assets/c471e574-3009-418c-8780-d4cc218995f6)
+<h3>All Technologies I use</h3>
+<img src="https://github.com/user-attachments/assets/c471e574-3009-418c-8780-d4cc218995f6"/>
 
 
 ## 📊 GitHub Stats
