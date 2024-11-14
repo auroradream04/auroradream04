@@ -22,10 +22,10 @@ ALSO, I LOVE BREAD!! 🥐🍞😚
 
 ## 🛠️ Tech Stack
 
-<h3>Main Tech Stack</h3>
+<h4>Main Tech Stack</h4>
 <img src="https://github.com/user-attachments/assets/3399be82-b814-49c7-a2de-12e4decd34e9"/>
 
-<h3>All Technologies I use</h3>
+<h4>All Technologies I use</h4>
 <img src="https://github.com/user-attachments/assets/c471e574-3009-418c-8780-d4cc218995f6"/>
 
 
