@@ -9,7 +9,7 @@ ALSO, I LOVE BREAD!! 🥐🍞😚
 
 - 💻 Full-stack Engineer
 - 👨‍💼 Founder of Studio Aurora
-- 📧 Accepting Freelance projects @alvin.studioaurora.io
+- 📧 Accepting Freelance projects <a href="mailto:alvin@studioaurora.io">alvin@studioaurora.io</a>
 <!-- - 🎯 Goal: 
 - ⚡ Fun fact: [An interesting fact about yourself] -->
 
