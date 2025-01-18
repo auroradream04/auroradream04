@@ -30,7 +30,7 @@ ALSO, I LOVE BREAD!! 🥐🍞😚
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=auroradream04&theme=dark&hide_border=false)
 
 ![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 
