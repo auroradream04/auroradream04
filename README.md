@@ -30,7 +30,7 @@ ALSO, I LOVE BREAD!! 🥐🍞😚
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=auroradream04&theme=dark&starting_year=2023)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats?user=auroradream04&theme=dark&starting_year=2023)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=auroradream04&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 
