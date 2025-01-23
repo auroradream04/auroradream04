@@ -3,7 +3,7 @@
 
 A full-stack engineer who started coding in late 2023. I'm from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. 
 
-ALSO, I LOVE BREAD!! 🥐🍞😚
+I LOVE BREAD!! 🥐🍞😚
 
 ## 🚀 About Me
 
