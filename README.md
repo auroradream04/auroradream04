@@ -1,7 +1,7 @@
 # ✨ Hello, I'm Aurora! 👋   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
 
-A full-stack engineer who started coding in late 2023. I'm from the Philippines 🇵🇭 with a deep love for programming and crafting web applications that bring ideas to life. 
+I’m a passionate full-stack engineer from the Philippines 🇵🇭 who embarked on my coding journey in late 2023. With a deep love for programming, I specialize in building modern, user-centric web applications that transform ideas into reality. Whether it’s crafting sleek front-end interfaces or designing robust back-end systems, I thrive on creating solutions that make an impact.
 
 I LOVE BREAD!! 🥐🍞😚
 
