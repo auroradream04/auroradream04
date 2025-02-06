@@ -3,7 +3,7 @@
 
 I’m a passionate full-stack engineer from the Philippines 🇵🇭 who embarked on my coding journey in late 2023. With a deep love for programming, I specialize in building modern, user-centric web applications that transform ideas into reality. Whether it’s crafting sleek front-end interfaces or designing robust back-end systems, I thrive on creating solutions that make an impact.
 
-I LOVE BREAD!! 🥐🍞😚
+P.S. I LOVE BREAD!! 🥐🍞😚
 
 ## 🚀 About Me
 
